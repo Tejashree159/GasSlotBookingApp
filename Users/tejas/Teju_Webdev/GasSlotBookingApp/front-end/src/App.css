@@ -1,0 +1,17 @@
+body {
+  background-color: aquamarine;
+}
+
+.ant-layout{
+  min-height: 100vh;
+}
+
+.ant-layout-header{
+  position:fixed;
+  z-index: 1;
+  width: 100
+}
+
+.ant-card{
+  margin: 16px 0;
+}
